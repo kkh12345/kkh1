@@ -195,7 +195,20 @@
 ![image](https://github.com/user-attachments/assets/7e67c5d2-2054-466d-8138-c34126329201)
 ![image](https://github.com/user-attachments/assets/fa05461b-c7ce-471b-aea0-72f104d7c300)
 
+<br><br>
 
+
+
+
+
+| 태블릿                                                                                                |
+| :---------------------------------------------------------------------------------------------------------------------- |
+![image](https://github.com/kkh12345/kkh1/blob/main/tablet.png)
+
+
+| 모바일                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------- |
+![image](https://github.com/kkh12345/kkh1/blob/main/mobile.png)
 
 
 
