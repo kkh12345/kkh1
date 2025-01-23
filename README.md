@@ -25,8 +25,6 @@
 
 
 
-
-
 ####   [ 주요 기능 ]
  * 로그인 클릭 시 로그인 페이지로 이동
 
@@ -195,15 +193,6 @@
 ![image](https://github.com/user-attachments/assets/7e67c5d2-2054-466d-8138-c34126329201)
 ![image](https://github.com/user-attachments/assets/fa05461b-c7ce-471b-aea0-72f104d7c300)
 
-<br><br>
-
-
-
-
-
-
-
-
 
 
 
@@ -216,12 +205,6 @@
 | :---------------------------------------------------------------------------------------------------------------------- |
 ![image](https://github.com/user-attachments/assets/b7e2f983-7d9f-49bc-a335-e92f3d14ebf0)
 ![image](https://github.com/kkh12345/kkh1/blob/main/notice2.png)
-
-
-
-
-
-
 
 
 ####   [ 주요 기능 ]
