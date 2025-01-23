@@ -209,6 +209,7 @@
 | 공지사항 페이지                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
 ![image](https://github.com/user-attachments/assets/b7e2f983-7d9f-49bc-a335-e92f3d14ebf0)
+![image](https://github.com/kkh12345/kkh1/blob/main/notice2.png)
 
 
 
